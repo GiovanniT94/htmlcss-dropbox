@@ -362,9 +362,6 @@ h5 {
 }
 
 
-/* #endregion Business plans */
-
-/* #region Partner */
 .partner_img>img {
     object-fit: cover;
     max-width: 100%;
@@ -389,9 +386,6 @@ h5 {
     padding: 0.4rem 1rem;
 }
 
-/* #endregion Partner */
-
-/* #region Operation */
 
 .operations>.col_33 {
     padding: 1rem;
@@ -408,9 +402,6 @@ h5 {
     margin-top: 1rem;
 }
 
-/* #endregion Operation */
-
-/* #region Teams & Testimonials */
 
 .header_teams {
     padding-right: 28rem;
